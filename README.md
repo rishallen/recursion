@@ -3,6 +3,9 @@
 Write a method factorial that accepts an integer parameter n and that uses recursion to compute and return the value of n factorial (also known as n!).
 
 ## fib(n)
+# adds the number before it:
+# 1 1 2 3 5 8 13 24
+# fib(4) = 3
 Write a method fib that accepts an integer n as a parameter and returns the nth fibonacci number.
 
 ## pal(s)
